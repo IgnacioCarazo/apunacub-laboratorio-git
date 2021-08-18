@@ -1,1 +1,1 @@
-apunacub-laboratorio-git
+Laboratorio 2
