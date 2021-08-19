@@ -1,1 +1,2 @@
-# Comentario realizado localmente en PC2
+
+# Comentario realizado desde el branch JIRA-13 - Actualizado
